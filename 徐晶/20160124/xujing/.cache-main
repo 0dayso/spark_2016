@@ -1,0 +1,604 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\test\workspace\xujing\src -> D:\test\workspace\xujing\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_45\lib\resources.jar;C:\Program Files\Java\jre1.8.0_45\lib\rt.jar;C:\Program Files\Java\jre1.8.0_45\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_45\lib\jce.jar;C:\Program Files\Java\jre1.8.0_45\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_45\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_45\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+139 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$average$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$change$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$countries$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$deviation$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$digit$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$domainDomains$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$findCountry$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$goodBad$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$ipDomain$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numIp$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numTtl$1.class
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\workspace\xujing\bin\analyse\Analyse.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$1.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$10.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$2.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$3.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$4.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$5.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$6.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$7.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$8.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9$$anonfun$apply$1.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9$$anonfun$apply$2.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$1.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$2.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$3.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample$.class
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\bin\analyse\Sample.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$1.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$10.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$2.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$3.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$4.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$5.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$6.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$7.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$8.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9$$anonfun$apply$1.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9$$anonfun$apply$2.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection$.class
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\bin\streaming\Detection.class
+D:\test\workspace\xujing\src\test\GoodBad.scala -> D:\test\workspace\xujing\bin\test\GoodBad$$anonfun$main$1.class
+D:\test\workspace\xujing\src\test\GoodBad.scala -> D:\test\workspace\xujing\bin\test\GoodBad$$anonfun$main$2.class
+D:\test\workspace\xujing\src\test\GoodBad.scala -> D:\test\workspace\xujing\bin\test\GoodBad$.class
+D:\test\workspace\xujing\src\test\GoodBad.scala -> D:\test\workspace\xujing\bin\test\GoodBad.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$10.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$2.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$3.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$4.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$5.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$6.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$7.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$8.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9$$anonfun$apply$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9$$anonfun$apply$2.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$average$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$change$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$countries$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$deviation$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$digit$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$domainDomains$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$findCountry$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$goodBad$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$ipDomain$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$2.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$3.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numIp$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numTtl$1.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1$.class
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\workspace\xujing\bin\test\Sample1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$10.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$11.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$12$$anonfun$apply$3.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$12.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$13.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$14.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$15.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$16.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$17.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$18.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$19.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$2.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$20.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$21.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$22.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$23.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$24.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$3.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$4.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$5.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$6$$anonfun$apply$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$6.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$7.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$8.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$9$$anonfun$apply$2.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$9.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$average$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$change$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$countries$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$deviation$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$digit$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$domainDomains$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$findCountry$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$ipDomain$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$10.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$2.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$3.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$4.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$5.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$6.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$7.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$8.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$9.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numIp$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numTtl$1.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest$.class
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\workspace\xujing\bin\test\SampleTest.class
+D:\test\workspace\xujing\src\test\test.scala -> D:\test\workspace\xujing\bin\test\test$$anonfun$1.class
+D:\test\workspace\xujing\src\test\test.scala -> D:\test\workspace\xujing\bin\test\test$.class
+D:\test\workspace\xujing\src\test\test.scala -> D:\test\workspace\xujing\bin\test\test.class
+D:\test\workspace\xujing\src\test\testip.scala -> D:\test\workspace\xujing\bin\test\testip$$anonfun$1.class
+D:\test\workspace\xujing\src\test\testip.scala -> D:\test\workspace\xujing\bin\test\testip$.class
+D:\test\workspace\xujing\src\test\testip.scala -> D:\test\workspace\xujing\bin\test\testip.class
+D:\test\workspace\xujing\src\test\time.scala -> D:\test\workspace\xujing\bin\test\time$$anonfun$main$1.class
+D:\test\workspace\xujing\src\test\time.scala -> D:\test\workspace\xujing\bin\test\time$.class
+D:\test\workspace\xujing\src\test\time.scala -> D:\test\workspace\xujing\bin\test\time.class
+binary dependencies:
+24 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\analyse\Sample.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\streaming\Detection.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\GoodBad.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\GoodBad.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\Samle1.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\test\Samle1.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\SampleTest.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\test\SampleTest.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\test.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\test.scala -> D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar
+D:\test\workspace\xujing\src\test\test.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\testip.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\testip.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+D:\test\workspace\xujing\src\test\time.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\test\workspace\xujing\src\test\time.scala -> D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar
+direct source dependencies:
+2 items
+D:\test\workspace\xujing\src\analyse\Sample.scala -> D:\test\workspace\xujing\src\analyse\Analyse.scala
+D:\test\workspace\xujing\src\streaming\Detection.scala -> D:\test\workspace\xujing\src\analyse\Analyse.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+139 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$average$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$change$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$countries$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$deviation$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$digit$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$domainDomains$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$findCountry$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$goodBad$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$ipDomain$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$numIp$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$numTtl$1
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> analyse.Analyse$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$1
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$10
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$2
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$3
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$4
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$5
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$6
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$7
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$8
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$9
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$9$$anonfun$apply$1
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$9$$anonfun$apply$2
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$main$1
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$main$2
+D:\test\workspace\xujing\src\analyse\Sample.scala -> analyse.Sample$$anonfun$main$3
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$1
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$10
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$2
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$3
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$4
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$5
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$6
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$7
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$8
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$9
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$9$$anonfun$apply$1
+D:\test\workspace\xujing\src\streaming\Detection.scala -> streaming.Detection$$anonfun$9$$anonfun$apply$2
+D:\test\workspace\xujing\src\test\GoodBad.scala -> test.GoodBad
+D:\test\workspace\xujing\src\test\GoodBad.scala -> test.GoodBad$
+D:\test\workspace\xujing\src\test\GoodBad.scala -> test.GoodBad$$anonfun$main$1
+D:\test\workspace\xujing\src\test\GoodBad.scala -> test.GoodBad$$anonfun$main$2
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$10
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$2
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$3
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$4
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$5
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$6
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$7
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$8
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$9
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$9$$anonfun$apply$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$9$$anonfun$apply$2
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$average$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$change$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$countries$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$deviation$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$digit$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$domainDomains$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$findCountry$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$goodBad$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$ipDomain$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$main$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$main$2
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$main$3
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$numIp$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$numTtl$1
+D:\test\workspace\xujing\src\test\Samle1.scala -> test.Sample1$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$10
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$11
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$12
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$12$$anonfun$apply$3
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$13
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$14
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$15
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$16
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$17
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$18
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$19
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$2
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$20
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$21
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$22
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$23
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$24
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$3
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$4
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$5
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$6
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$6$$anonfun$apply$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$7
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$8
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$9
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$9$$anonfun$apply$2
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$average$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$change$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$countries$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$deviation$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$digit$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$domainDomains$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$findCountry$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$ipDomain$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$10
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$2
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$3
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$4
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$5
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$6
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$7
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$8
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$main$9
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$numIp$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$numTtl$1
+D:\test\workspace\xujing\src\test\SampleTest.scala -> test.SampleTest$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1
+D:\test\workspace\xujing\src\test\test.scala -> test.test
+D:\test\workspace\xujing\src\test\test.scala -> test.test$
+D:\test\workspace\xujing\src\test\test.scala -> test.test$$anonfun$1
+D:\test\workspace\xujing\src\test\testip.scala -> test.testip
+D:\test\workspace\xujing\src\test\testip.scala -> test.testip$
+D:\test\workspace\xujing\src\test\testip.scala -> test.testip$$anonfun$1
+D:\test\workspace\xujing\src\test\time.scala -> test.time
+D:\test\workspace\xujing\src\test\time.scala -> test.time$
+D:\test\workspace\xujing\src\test\time.scala -> test.time$$anonfun$main$1
+used names:
+0 items
+product stamps:
+139 items
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$average$1.class -> lastModified(1453460946073)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$change$1.class -> lastModified(1453460946076)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$countries$1.class -> lastModified(1453460946079)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$deviation$1.class -> lastModified(1453460946080)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$digit$1.class -> lastModified(1453460946083)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$domainDomains$1.class -> lastModified(1453460946084)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$findCountry$1.class -> lastModified(1453460946087)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$goodBad$1.class -> lastModified(1453460946088)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$ipDomain$1.class -> lastModified(1453460946090)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1453460946096)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numIp$1.class -> lastModified(1453460946093)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1453460946100)
+D:\test\workspace\xujing\bin\analyse\Analyse$$anonfun$numTtl$1.class -> lastModified(1453460946098)
+D:\test\workspace\xujing\bin\analyse\Analyse.class -> lastModified(1453460946070)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$1.class -> lastModified(1453460946108)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$10.class -> lastModified(1453460946110)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$2.class -> lastModified(1453460946112)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$3.class -> lastModified(1453460946114)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$4.class -> lastModified(1453460946115)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$5.class -> lastModified(1453460946117)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$6.class -> lastModified(1453460946119)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$7.class -> lastModified(1453460946121)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$8.class -> lastModified(1453460946123)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9$$anonfun$apply$1.class -> lastModified(1453460946129)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9$$anonfun$apply$2.class -> lastModified(1453460946131)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$9.class -> lastModified(1453460946127)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$1.class -> lastModified(1453460946133)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$2.class -> lastModified(1453460946135)
+D:\test\workspace\xujing\bin\analyse\Sample$$anonfun$main$3.class -> lastModified(1453460946137)
+D:\test\workspace\xujing\bin\analyse\Sample$.class -> lastModified(1453460946106)
+D:\test\workspace\xujing\bin\analyse\Sample.class -> lastModified(1453460946102)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$1.class -> lastModified(1453462632641)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$10.class -> lastModified(1453462632646)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$2.class -> lastModified(1453462632648)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$3.class -> lastModified(1453462632650)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$4.class -> lastModified(1453462632652)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$5.class -> lastModified(1453462632654)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$6.class -> lastModified(1453462632656)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$7.class -> lastModified(1453462632658)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$8.class -> lastModified(1453462632660)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9$$anonfun$apply$1.class -> lastModified(1453462632669)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9$$anonfun$apply$2.class -> lastModified(1453462632671)
+D:\test\workspace\xujing\bin\streaming\Detection$$anonfun$9.class -> lastModified(1453462632667)
+D:\test\workspace\xujing\bin\streaming\Detection$.class -> lastModified(1453462632624)
+D:\test\workspace\xujing\bin\streaming\Detection.class -> lastModified(1453462632620)
+D:\test\workspace\xujing\bin\test\GoodBad$$anonfun$main$1.class -> lastModified(1453460946148)
+D:\test\workspace\xujing\bin\test\GoodBad$$anonfun$main$2.class -> lastModified(1453460946150)
+D:\test\workspace\xujing\bin\test\GoodBad$.class -> lastModified(1453460946146)
+D:\test\workspace\xujing\bin\test\GoodBad.class -> lastModified(1453460946144)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$1.class -> lastModified(1453460946168)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$10.class -> lastModified(1453460946171)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$2.class -> lastModified(1453460946172)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$3.class -> lastModified(1453460946174)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$4.class -> lastModified(1453460946176)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$5.class -> lastModified(1453460946177)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$6.class -> lastModified(1453460946180)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$7.class -> lastModified(1453460946182)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$8.class -> lastModified(1453460946184)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9$$anonfun$apply$1.class -> lastModified(1453460946189)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9$$anonfun$apply$2.class -> lastModified(1453460946191)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$9.class -> lastModified(1453460946187)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$average$1.class -> lastModified(1453460946193)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$change$1.class -> lastModified(1453460946195)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$countries$1.class -> lastModified(1453460946197)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$deviation$1.class -> lastModified(1453460946199)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$digit$1.class -> lastModified(1453460946201)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$domainDomains$1.class -> lastModified(1453460946203)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$findCountry$1.class -> lastModified(1453460946205)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$goodBad$1.class -> lastModified(1453460946207)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$ipDomain$1.class -> lastModified(1453460946209)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$1.class -> lastModified(1453460946211)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$2.class -> lastModified(1453460946213)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$main$3.class -> lastModified(1453460946214)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1453460946219)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numIp$1.class -> lastModified(1453460946217)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1453460946223)
+D:\test\workspace\xujing\bin\test\Sample1$$anonfun$numTtl$1.class -> lastModified(1453460946221)
+D:\test\workspace\xujing\bin\test\Sample1$.class -> lastModified(1453460946166)
+D:\test\workspace\xujing\bin\test\Sample1.class -> lastModified(1453460946154)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$1.class -> lastModified(1453460946243)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$10.class -> lastModified(1453460946245)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$11.class -> lastModified(1453460946247)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$12$$anonfun$apply$3.class -> lastModified(1453460946251)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$12.class -> lastModified(1453460946249)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$13.class -> lastModified(1453460946253)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$14.class -> lastModified(1453460946255)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$15.class -> lastModified(1453460946257)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$16.class -> lastModified(1453460946260)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$17.class -> lastModified(1453460946261)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$18.class -> lastModified(1453460946263)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$19.class -> lastModified(1453460946265)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$2.class -> lastModified(1453460946267)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$20.class -> lastModified(1453460946269)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$21.class -> lastModified(1453460946271)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$22.class -> lastModified(1453460946274)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$23.class -> lastModified(1453460946277)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$24.class -> lastModified(1453460946279)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$3.class -> lastModified(1453460946281)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$4.class -> lastModified(1453460946283)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$5.class -> lastModified(1453460946284)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$6$$anonfun$apply$1.class -> lastModified(1453460946288)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$6.class -> lastModified(1453460946286)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$7.class -> lastModified(1453460946289)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$8.class -> lastModified(1453460946291)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$9$$anonfun$apply$2.class -> lastModified(1453460946295)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$9.class -> lastModified(1453460946293)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$average$1.class -> lastModified(1453460946296)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$change$1.class -> lastModified(1453460946298)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$countries$1.class -> lastModified(1453460946300)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$deviation$1.class -> lastModified(1453460946302)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$digit$1.class -> lastModified(1453460946303)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$domainDomains$1.class -> lastModified(1453460946305)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$findCountry$1.class -> lastModified(1453460946307)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$ipDomain$1.class -> lastModified(1453460946309)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$1.class -> lastModified(1453460946311)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$10.class -> lastModified(1453460946313)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$2.class -> lastModified(1453460946315)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$3.class -> lastModified(1453460946316)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$4.class -> lastModified(1453460946318)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$5.class -> lastModified(1453460946320)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$6.class -> lastModified(1453460946322)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$7.class -> lastModified(1453460946323)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$8.class -> lastModified(1453460946325)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$main$9.class -> lastModified(1453460946327)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numIp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1453460946331)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numIp$1.class -> lastModified(1453460946329)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numTtl$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1453460946336)
+D:\test\workspace\xujing\bin\test\SampleTest$$anonfun$numTtl$1.class -> lastModified(1453460946334)
+D:\test\workspace\xujing\bin\test\SampleTest$.class -> lastModified(1453460946241)
+D:\test\workspace\xujing\bin\test\SampleTest.class -> lastModified(1453460946229)
+D:\test\workspace\xujing\bin\test\test$$anonfun$1.class -> lastModified(1453460946341)
+D:\test\workspace\xujing\bin\test\test$.class -> lastModified(1453460946339)
+D:\test\workspace\xujing\bin\test\test.class -> lastModified(1453460946337)
+D:\test\workspace\xujing\bin\test\testip$$anonfun$1.class -> lastModified(1453460946347)
+D:\test\workspace\xujing\bin\test\testip$.class -> lastModified(1453460946345)
+D:\test\workspace\xujing\bin\test\testip.class -> lastModified(1453460946343)
+D:\test\workspace\xujing\bin\test\time$$anonfun$main$1.class -> lastModified(1453460946353)
+D:\test\workspace\xujing\bin\test\time$.class -> lastModified(1453460946350)
+D:\test\workspace\xujing\bin\test\time.class -> lastModified(1453460946349)
+source stamps:
+9 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> hash(8f31bb6e9779a8ecff2093fe70d7e25da9738259)
+D:\test\workspace\xujing\src\analyse\Sample.scala -> hash(ccee4c0c05ad62b24d821aa40f9ec4b2396d9070)
+D:\test\workspace\xujing\src\streaming\Detection.scala -> hash(840fb274960fc72f5f9ae2a25fa42655d7fa34db)
+D:\test\workspace\xujing\src\test\GoodBad.scala -> hash(df9d4ebc68e0616ed7677145b6c151b63e5bac4c)
+D:\test\workspace\xujing\src\test\Samle1.scala -> hash(c1d7ed41d76928c0f012c07dca0162d831249dee)
+D:\test\workspace\xujing\src\test\SampleTest.scala -> hash(3d7733e32a941a66a87e7a9113ff509e951a7c86)
+D:\test\workspace\xujing\src\test\test.scala -> hash(ce4e24e82aa2acac9373f5ce52fcd9f3ba6d71f7)
+D:\test\workspace\xujing\src\test\testip.scala -> hash(2cae64898a62d194d39588e17faf61eb2a7a3823)
+D:\test\workspace\xujing\src\test\time.scala -> hash(8c7b85315ac694e3f2aa7dcf56f071c2c7fd0bdf)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> lastModified(1433243604913)
+D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar -> lastModified(1428730376000)
+D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar -> lastModified(1448958950000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> java.lang.Object
+D:\scala\workspace\spark-assembly-1.3.1-hadoop2.6.0.jar -> org.apache.spark.SparkConf
+D:\test\eclipse\plugins\org.scala-ide.scala210.jars_4.3.0.201512011535\target\jars\scala-library.jar -> scala.collection.TraversableLike
+internal apis:
+9 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAodkxUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPYW5hbHlzZS5BbmFseXNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEdxAH4ASnNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFN0AARqYXZhc3EAfgBTdAACaW9xAH4AWHNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFNxAH4AXnNxAH4AU3QABGxhbmdxAH4AWHNxAH4AR3QAA0FueXEAfgBNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAHYW5hbHlzZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFI8xu26Xeajs/yCT/nDX4l2pc4JZ
+D:\test\workspace\xujing\src\analyse\Sample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCOagOmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOYW5hbHlzZS5TYW1wbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AElbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADZzcQB+AEh0AAVBcnJheXEAfgBOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEh0AAZTdHJpbmdzcQB+AExzcQB+AE91cQB+AFIAAAADc3EAfgBUdAAEamF2YXNxAH4AVHQABGxhbmdxAH4AWXNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgBtAAAAAnNxAH4ASHQABk9iamVjdHEAfgBxc3EAfgBIdAADQW55cQB+AE51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdhbmFseXNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSaQXmX3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcYmludAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzO5MDAWtYrJNghqkD57EsjltkHA=
+D:\test\workspace\xujing\src\streaming\Detection.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAXhVP5AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATc3RyZWFtaW5nLkRldGVjdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAJc3RyZWFtaW5nc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSaR+y03VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcYmludAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUhA+ydJYPxy9fmuKiX6QmVdf6NNs=
+D:\test\workspace\xujing\src\test\GoodBad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCp7GnIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMdGVzdC5Hb29kQmFkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAEdGVzdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFN+dTrxo4GFu12dxRbbBUbY+W6xM
+D:\test\workspace\xujing\src\test\Samle1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdLhRnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMdGVzdC5TYW1wbGUxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAEdGVzdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFMHX7UHXaSjA8BLAfcoBYtgxJJ3u
+D:\test\workspace\xujing\src\test\SampleTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDaOQAiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPdGVzdC5TYW1wbGVUZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAEdGVzdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFD13M+MqlBpmqH56kRP/UJ6VGnyG
+D:\test\workspace\xujing\src\test\test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCuKF5eAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAJdGVzdC50ZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAEdGVzdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFM5OJOgqoqysk3P1zlL82fO6bXH3
+D:\test\workspace\xujing\src\test\testip.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBk+ljBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALdGVzdC50ZXN0aXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AElbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADZzcQB+AEh0AAVBcnJheXEAfgBOdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEh0AAZTdHJpbmdzcQB+AExzcQB+AE91cQB+AFIAAAADc3EAfgBUdAAEamF2YXNxAH4AVHQABGxhbmdxAH4AWXNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgBtAAAAAnNxAH4ASHQABk9iamVjdHEAfgBxc3EAfgBIdAADQW55cQB+AE51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAR0ZXN0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSaQXmX3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcYmludAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULK5kiYpi0ZTTlYjhf69h6yp6OCM=
+D:\test\workspace\xujing\src\test\time.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUyCJyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAJdGVzdC50aW1ldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgBBeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBIdAAFQXJyYXlxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBIdAAGU3RyaW5nc3EAfgBMc3EAfgBPdXEAfgBSAAAAA3NxAH4AVHQABGphdmFzcQB+AFR0AARsYW5ncQB+AFlzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AbQAAAAJzcQB+AEh0AAZPYmplY3RxAH4AcXNxAH4ASHQAA0FueXEAfgBOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAEdGVzdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAcRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXGJpbnQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFIx7hTFaxpTj8qp9z1bwccLH/Qvf
+external apis:
+0 items
+source infos:
+9 items
+D:\test\workspace\xujing\src\analyse\Analyse.scala -> 
+AAAAAgAHY29tcGlsZQEAAAAQABggICAgICBjYXNlIF8gPT4gcmVzdWx0PTABAAABbgEAAAALAQALICAgICAgICAgICABADJEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3JjXGFuYWx5c2VcQW5hbHlzZS5zY2FsYQEAMkQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmNcYW5hbHlzZVxBbmFseXNlLnNjYWxhAGhUaGlzIGNhdGNoZXMgYWxsIFRocm93YWJsZXMuIElmIHRoaXMgaXMgcmVhbGx5IGludGVuZGVkLCB1c2UgYGNhc2UgXyA6IFRocm93YWJsZWAgdG8gY2xlYXIgdGhpcyB3YXJuaW5nLgEAB2NvbXBpbGUBAAAAaAAXICAgICAgICBjYXNlIF8gPT4gcmVzPTABAAAH3gEAAAANAQANICAgICAgICAgICAgIAEAMkQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmNcYW5hbHlzZVxBbmFseXNlLnNjYWxhAQAyRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY1xhbmFseXNlXEFuYWx5c2Uuc2NhbGEAaFRoaXMgY2F0Y2hlcyBhbGwgVGhyb3dhYmxlcy4gSWYgdGhpcyBpcyByZWFsbHkgaW50ZW5kZWQsIHVzZSBgY2FzZSBfIDogVGhyb3dhYmxlYCB0byBjbGVhciB0aGlzIHdhcm5pbmcuAQAAAAA=
+D:\test\workspace\xujing\src\analyse\Sample.scala -> 
+AAAAAAAAAAA=
+D:\test\workspace\xujing\src\streaming\Detection.scala -> 
+AAAAAAAAAAA=
+D:\test\workspace\xujing\src\test\GoodBad.scala -> 
+AAAAAAAAAAA=
+D:\test\workspace\xujing\src\test\Samle1.scala -> 
+AAAAAgAHY29tcGlsZQEAAAAUABggICAgICBjYXNlIF8gPT4gcmVzdWx0PTABAAAB5gEAAAALAQALICAgICAgICAgICABAC5EOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3JjXHRlc3RcU2FtbGUxLnNjYWxhAQAuRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY1x0ZXN0XFNhbWxlMS5zY2FsYQBoVGhpcyBjYXRjaGVzIGFsbCBUaHJvd2FibGVzLiBJZiB0aGlzIGlzIHJlYWxseSBpbnRlbmRlZCwgdXNlIGBjYXNlIF8gOiBUaHJvd2FibGVgIHRvIGNsZWFyIHRoaXMgd2FybmluZy4BAAdjb21waWxlAQAAAGwAFyAgICAgICAgY2FzZSBfID0+IHJlcz0wAQAACFYBAAAADQEADSAgICAgICAgICAgICABAC5EOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3JjXHRlc3RcU2FtbGUxLnNjYWxhAQAuRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY1x0ZXN0XFNhbWxlMS5zY2FsYQBoVGhpcyBjYXRjaGVzIGFsbCBUaHJvd2FibGVzLiBJZiB0aGlzIGlzIHJlYWxseSBpbnRlbmRlZCwgdXNlIGBjYXNlIF8gOiBUaHJvd2FibGVgIHRvIGNsZWFyIHRoaXMgd2FybmluZy4BAAAAAA==
+D:\test\workspace\xujing\src\test\SampleTest.scala -> 
+AAAAAgAHY29tcGlsZQEAAAASABggICAgICBjYXNlIF8gPT4gcmVzdWx0PTABAAABogEAAAALAQALICAgICAgICAgICABADJEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3JjXHRlc3RcU2FtcGxlVGVzdC5zY2FsYQEAMkQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmNcdGVzdFxTYW1wbGVUZXN0LnNjYWxhAGhUaGlzIGNhdGNoZXMgYWxsIFRocm93YWJsZXMuIElmIHRoaXMgaXMgcmVhbGx5IGludGVuZGVkLCB1c2UgYGNhc2UgXyA6IFRocm93YWJsZWAgdG8gY2xlYXIgdGhpcyB3YXJuaW5nLgEAB2NvbXBpbGUBAAAAagAXICAgICAgICBjYXNlIF8gPT4gcmVzPTABAAAIEgEAAAANAQANICAgICAgICAgICAgIAEAMkQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xzcmNcdGVzdFxTYW1wbGVUZXN0LnNjYWxhAQAyRDpcdGVzdFx3b3Jrc3BhY2VceHVqaW5nXHNyY1x0ZXN0XFNhbXBsZVRlc3Quc2NhbGEAaFRoaXMgY2F0Y2hlcyBhbGwgVGhyb3dhYmxlcy4gSWYgdGhpcyBpcyByZWFsbHkgaW50ZW5kZWQsIHVzZSBgY2FzZSBfIDogVGhyb3dhYmxlYCB0byBjbGVhciB0aGlzIHdhcm5pbmcuAQAAAAA=
+D:\test\workspace\xujing\src\test\test.scala -> 
+AAAAAAAAAAA=
+D:\test\workspace\xujing\src\test\testip.scala -> 
+AAAAAAAAAAA=
+D:\test\workspace\xujing\src\test\time.scala -> 
+AAAAAAAAAAA=
+compilations:
+42 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIA3351cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYIB2rl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYQ9uyN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYRCbOJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYReqi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYVejGJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiqKOv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmi3Mf11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjHO8R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjLFNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjMNw51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjOaQ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjOqV51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjZudh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjZzeF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjZ5jl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjiuvF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjleBJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjlyUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjrIaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjs0211cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjs2O51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjukLl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmju4Xp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmjvBc11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmj1uQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmj3HG11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmj5W9N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmj6fYZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHC94dWppbmcvd29ya3NwYWNlL3h1amluZy9iaW50ABwveHVqaW5nL3dvcmtzcGFjZS94dWppbmcvc3Jj
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkF5l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkJIdV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkMSEh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkN32N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkO3EZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkQhDR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkRuhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkSvtt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkTY8h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkUSDN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkVLTR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkfDSh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUmkfstN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAHEQ6XHRlc3Rcd29ya3NwYWNlXHh1amluZ1xiaW50ABxEOlx0ZXN0XHdvcmtzcGFjZVx4dWppbmdcc3Jj
